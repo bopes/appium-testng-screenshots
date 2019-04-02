@@ -1,0 +1,16 @@
+{
+  "environments": {
+    "english": {
+      "name": "English",
+      "language": "en"
+    },
+    "spanish": {
+      "name": "Spanish",
+      "language": "fr"
+    },
+    "chinese": {
+      "name": "Chinese",
+      "language": "zh"
+    }
+  }
+}
